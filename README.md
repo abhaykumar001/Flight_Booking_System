@@ -41,5 +41,5 @@ This project is licensed under the MIT License.
 For any queries or support, contact:
 
 - Email: abhaykumary4k@gmail.com
-- GitHub: abhaykumar001
+- GitHub: [abhaykumar001](https://github.com/abhaykumar001)
 - Website: [Fare Xplorer](https://farexplorer.com/) 
